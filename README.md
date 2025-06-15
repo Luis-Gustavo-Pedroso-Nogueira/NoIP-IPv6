@@ -3,11 +3,11 @@ Script shell para envio do IPv6 ao NOIP
 
 Adicione o script ao diretorio 
 
-nano /usr/local/bin/atualiza-noip.sh
+nano /usr/local/bin/atualizanoip.sh
 
 Torne executavél:
 
-sudo chmod +x /usr/local/bin/atualiza-noip.sh
+sudo chmod +x /usr/local/bin/atualizanoip.sh
 
 Crie o agendamento de execução:
 
